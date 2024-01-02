@@ -51,5 +51,4 @@ This project relies on the following technologies and libraries:
 
 4. **Transfer SOL to New Account:** After creating a new account or connecting a wallet, click "Transfer SOL to New Account" to send SOL tokens.
 
-5. **Check Wallet Balance:** Click the "Check Wallet Balance" button to view the balance of the currently connected wallet or the new account.
 
